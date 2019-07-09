@@ -1,1 +1,2 @@
-123456
+var b=6;
+console.log(b)
